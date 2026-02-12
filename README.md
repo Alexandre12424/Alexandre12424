@@ -1,4 +1,4 @@
-<h1 align="left">🐻Alexandre Delfino</h1>
+<h1 align="left">⭐Alexandre Delfino</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Front-end Developer in progress  <br>🎨 Passionate about design and user experience  <br>📚 ADS Student  <br>🧠 Currently evolving towards Full Stack development</p>
+<p align="left">I’m an ADS student and a Front-end Developer in progress, passionate about design and user experience. Currently evolving towards Full Stack development, constantly learning and building modern web applications.</p>
 
 ###
 
@@ -53,8 +53,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="instagram logo"  />
+  <a href=https://www.instagram.com/ale_0xnade?igsh=MXR6bHJ3enc4dWRw" target"_blank> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="19" alt="whatsapp logo"  />

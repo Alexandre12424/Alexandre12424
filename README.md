@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNIP (Universidade Paulista) e possuo curso de Informática Avançada. Tenho interesse em desenvolvimento Front-end e estou em constante evolução para me tornar um desenvolvedor Full Stack. Minhas principais linguagens são Python e C, e atualmente estou me especializando em Java. Busco me atualizar continuamente na área de tecnologia, pois tenho grande interesse em aprender e aplicar meus conhecimentos na criação de soluções inovadoras.</p>
+<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP) e possuo curso de Informática Avançada. Tenho interesse em desenvolvimento Front-end e estou em constante evolução para me tornar um desenvolvedor Full Stack. Possuo conhecimentos básicos em Python, C++, HTML, CSS e JavaScript, além de estar iniciando meus estudos em SQL e MySQL. Busco me atualizar continuamente na área de tecnologia, pois tenho grande interesse em aprender e aplicar meus conhecimentos na criação de soluções inovadoras</p>
 
 ###
 
@@ -37,11 +37,7 @@
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="21" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
 </div>
